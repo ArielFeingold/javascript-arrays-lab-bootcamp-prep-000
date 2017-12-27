@@ -31,4 +31,6 @@ function prependKitten(name){
   return kit2
 }
 
-function 
+function removeLastKitten(){
+  
+}
